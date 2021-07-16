@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(4, 51, 12);
+    height: 35px;
+    color: beige;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 0.3rem;
+}
+
+body {
+    margin: 0;
+}
+
+.space-top {
+    margin-top: 0.3rem;
+}
+
+.search {
+    background-color: #F9F9F9;
+    color: #5d3051;
+    font-weight: bold;
+    border-color: #5d3051;
+    cursor: pointer;
+}
+.search:hover {
+    border: 3px;
+}

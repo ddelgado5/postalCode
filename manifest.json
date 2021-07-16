@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Diana ext",
+    "description": "This is a extensión to save notes",
+    "version": "1.1",
+    "action": {
+        "default_icon": "img.png",
+        "default_popup": "popup.html"
+    }
+}
